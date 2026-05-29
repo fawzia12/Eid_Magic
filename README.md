@@ -1,5 +1,7 @@
 # 🌙 eid_magic ✨
 
+An open-source Flutter application designed to bring festive magic to your mobile device.
+
 ### 🛠️ Explore the Features
 | 🌟 Eid Magic (Home) | ✨ Creator Studio | 🔮 Generated Card |
 | :---: | :---: | :---: |
