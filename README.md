@@ -35,6 +35,13 @@ An open-source Flutter application designed to bring festive magic to your mobil
     If user does not like sounds, they can simply turn it OFF
     Settings section provides full control over audio.
 
+## ⚡ Quick Start (One-Command Installation)
+
+You can clone, install dependencies, and run the project instantly with this single command. Just copy and paste it into your terminal:
+
+```bash
+git clone [https://github.com/fawzia12/Eid_Magic.git](https://github.com/fawzia12/Eid_Magic.git) && cd Eid_Magic && flutter pub get && flutter run
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
