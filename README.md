@@ -43,4 +43,17 @@ You can clone, install dependencies, and run the project instantly with this sin
 
 <pre><code>git clone https://github.com/fawzia12/Eid_Magic.git && cd Eid_Magic && flutter pub get && flutter run  </code></pre>
 
+## License
+
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
+This project is licensed under the MIT License 
+
+
+
+Copyright (c) 2026 Fawzia Rahman modify it 
 
