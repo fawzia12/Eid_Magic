@@ -18,10 +18,10 @@ An open-source Flutter application designed to bring festive magic to your mobil
     3D Perspective Carousel: Swipe through Eid greetings, profound blessing quotes, and virtual gifts arranged       in a gorgeous 3D depth stack powered by flutter_card_swiper.
 
 2. ## 🎁 Interactive Gift Unboxing (Gamified Eidi)
-    Shake-to-Open Magic: Utilizing device accelerometer sensors (sensors_plus), users physically shake their         phones to begin unboxing virtual Eid gifts.
+    Shake-to-Open Magic: Utilizing device accelerometer sensors (sensors_plus), users physically shake their       phones to begin unboxing virtual Eid gifts.
    
 3. ## 🎨 AI-Style Animated Greeting Card Generator
-     The app generates a personalized Eid card with “Eid Mubarak” in Arabic & English, shown over a smooth            morphing gradient background with a typewriter-style name reveal.
+     The app generates a personalized Eid card with “Eid Mubarak” in Arabic & English, shown over a smooth           morphing gradient background with a typewriter-style name reveal.
 
     ## shared directly to Instagram, WhatsApp, or LinkedIn with one tap.
    
@@ -42,19 +42,4 @@ An open-source Flutter application designed to bring festive magic to your mobil
 You can clone, install dependencies, and run the project instantly with this single command. Just copy and paste it into your terminal:
 
 ```bash
-git clone https://github.com/fawzia12/Eid_Magic.git && cd Eid_Magic && flutter pub get && flutter run 
-
-## License
-
-
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-
-Copyright (c) 2026 Fawzia Rahman modify it 
-
+git clone [https://github.com/fawzia12/Eid_Magic.git](https://github.com/fawzia12/Eid_Magic.git) && cd Eid_Magic && flutter pub get && flutter run
