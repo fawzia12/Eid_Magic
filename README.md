@@ -3,7 +3,7 @@
 ### 🛠️ Explore the Features
 | 🌟 Eid Magic (Home) | ✨ Creator Studio | 🔮 Generated Card |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/45ffdc5f-4136-47e2-82a0-649f6feafff1" width="120"> | <img src="https://github.com/user-attachments/assets/cae6f452-98c1-4081-b7eb-6b2b993ad888" width="220"> | <img src="https://github.com/user-attachments/assets/a58f66c4-ed87-49ae-bb65-9145269d4b6e" width="220"> |
+| <img src="https://github.com/user-attachments/assets/45ffdc5f-4136-47e2-82a0-649f6feafff1" width="220"> | <img src="https://github.com/user-attachments/assets/cae6f452-98c1-4081-b7eb-6b2b993ad888" width="220"> | <img src="https://github.com/user-attachments/assets/a58f66c4-ed87-49ae-bb65-9145269d4b6e" width="220"> |
 
 | 🎁 Mystery Gift | 🐪 Reward Revealed | ⚙️ Settings |
 | :---: | :---: | :---: |
