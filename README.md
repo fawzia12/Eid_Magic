@@ -4,11 +4,11 @@
 
 | 🌟 Eid Magic (Home) | ✨ Creator Studio | 🔮 Generated Card |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/53ad600e-8979-49d2-a11f-90e70161b432" width="240"> | <img src="https://github.com/user-attachments/assets/e8524c3e-f5e7-47d9-9961-efbd80f9dbd8" width="240"> | <img src="https://github.com/user-attachments/assets/0a95137d-8570-465a-b05e-8eee9b3899c3" width="240"> |
+| <img src="1.jpg" width="240"> | <img src="2.jpg" width="240"> | <img src="3.jpg" width="240"> |
 
 | 🎁 Mystery Gift | 🐪 Reward Revealed | ⚙️ Settings |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/53ad600e-8979-49d2-a11f-90e70161b432" width="240"> | <img src="https://github.com/user-attachments/assets/e8524c3e-f5e7-47d9-9961-efbd80f9dbd8" width="240"> | <img src="https://github.com/user-attachments/assets/0a95137d-8570-465a-b05e-8eee9b3899c3" width="240"> |
+| <img src="4.jpg" width="240"> | <img src="6.jpg" width="240"> | <img src="7.jpg" width="240"> |
 
 ## ✨ Features & What Makes This App Unique
 
