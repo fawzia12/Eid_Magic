@@ -7,7 +7,7 @@
 
 | 🎁 Mystery Gift | 🐪 Reward Revealed | ⚙️ Settings |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/52ca9dc7-dcd2-4166-aca4-5d56e165de0d" width="240"> | <img src="https://github.com/user-attachments/assets/56566771-a829-47f2-9cd3-eb51413bc01b" width="240"> | <img src="https://github.com/user-attachments/assets/56566771-a829-47f2-9cd3-eb51413bc01b" width="240"> |
+| <img src="https://github.com/user-attachments/assets/52ca9dc7-dcd2-4166-aca4-5d56e165de0d" width="240"> | <img src="https://github.com/user-attachments/assets/0049dbab-bf5a-4cfa-8e45-36e6d3ff4671"  width="240"> | <img src="https://github.com/user-attachments/assets/56566771-a829-47f2-9cd3-eb51413bc01b" width="240"> |
 
 
 ## ✨ Features & What Makes This App Unique
