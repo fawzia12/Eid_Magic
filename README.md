@@ -5,7 +5,7 @@ A new Flutter project.
 ## ✨ Features & What Makes This App Unique
 
 1. ## 🌌 The Immersive Home Universe
-3D Perspective Carousel: Swipe through Eid greetings, profound blessing quotes, and virtual gifts arranged in a gorgeous 3D depth stack powered by flutter_card_swiper.
+    3D Perspective Carousel: Swipe through Eid greetings, profound blessing quotes, and virtual gifts arranged in      a gorgeous 3D depth stack powered by flutter_card_swiper.
 
 2. ## 🎁 Interactive Gift Unboxing (Gamified Eidi)
 Shake-to-Open Magic: Utilizing device accelerometer sensors (sensors_plus), users physically shake their phones to begin unboxing virtual Eid gifts.
