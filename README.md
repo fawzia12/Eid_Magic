@@ -35,6 +35,9 @@ An open-source Flutter application designed to bring festive magic to your mobil
     If user does not like sounds, they can simply turn it OFF
     Settings section provides full control over audio.
 
+2. **Navigate to the project directory:**
+```bash
+   cd eid_magic
 
 ## License
 
