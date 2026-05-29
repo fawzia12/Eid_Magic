@@ -1,8 +1,9 @@
 # 🌙 eid_magic ✨
 
 ### 🛠️ Explore the Features
-![Uploading 1.png…]()
-![Uploading 2.png…]()
+<img width="1320" height="2868" alt="1" src="https://github.com/user-attachments/assets/45ffdc5f-4136-47e2-82a0-649f6feafff1" />
+<img width="1320" height="2868" alt="2" src="https://github.com/user-attachments/assets/cae6f452-98c1-4081-b7eb-6b2b993ad888" />
+
 <img width="1320" height="2868" alt="3" src="https://github.com/user-attachments/assets/a58f66c4-ed87-49ae-bb65-9145269d4b6e" />
 <img width="1320" height="2868" alt="6" src="https://github.com/user-attachments/assets/0049dbab-bf5a-4cfa-8e45-36e6d3ff4671" />
 <img width="1320" height="2868" alt="7" src="https://github.com/user-attachments/assets/56566771-a829-47f2-9cd3-eb51413bc01b" />
