@@ -1,22 +1,19 @@
-# eid_magic
+# 🌙 eid_magic ✨
 
 A new Flutter project.
 
-## Getting Started
+## ✨ Features & What Makes This App Unique
 
-This project is a starting point for a Flutter application.
+1. ## 🌌 The Immersive Home Universe
+3D Perspective Carousel: Swipe through Eid greetings, profound blessing quotes, and virtual gifts arranged in a gorgeous 3D depth stack powered by flutter_card_swiper.
 
-A few resources to get you started if this is your first Flutter project:
+2. ## 🎁 Interactive Gift Unboxing (Gamified Eidi)
+Shake-to-Open Magic: Utilizing device accelerometer sensors (sensors_plus), users physically shake their phones to begin unboxing virtual Eid gifts.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+4.  ## 🌙 Dual-Identity Theme System (Al-Fitr vs. Al-Adha)
+Eid al-Fitr Theme: Soft greens, crescent moons, and tropical palm tree silhouettes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Eid al-Adha Theme: Warm desert gold, festive tents, and rich traditional geometry.
 
-<!-- For building for iOS -->
-
-# Run Flutter Build iOS
-
+5.  ## 🎵 Sensory Audio
+6.  
