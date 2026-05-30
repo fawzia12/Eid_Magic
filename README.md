@@ -39,9 +39,20 @@ An open-source Flutter application designed to bring festive magic to your mobil
 
 ## ⚡ Quick Start (One-Command Installation)
 
-You can clone, install dependencies, and run the project instantly with this single command. Just copy and paste it into your terminal:
+### 1. Clone the Repository
+<pre><code>git clone https://github.com/fawzia12/Eid_Magic.git</code></pre>
 
-<pre><code>git clone https://github.com/fawzia12/Eid_Magic.git && cd Eid_Magic && flutter pub get && flutter run  </code></pre>
+### 2. Navigate to Project Directory
+
+<pre><code>cd Eid_Magic</code></pre>
+
+### 3. Install Dependencies
+
+<pre><code>flutter pub get</code></pre>
+
+### 4. Run the Application
+Launch the app on your connected device or emulator:
+<pre><code>flutter run</code></pre>
 
 ## License
 
