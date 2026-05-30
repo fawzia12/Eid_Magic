@@ -44,7 +44,7 @@ An open-source Flutter application designed to bring festive magic to your mobil
 
 ### 2. Navigate to Project Directory
 
-<pre><code>cd Eid_Magic</code></pre>
+<pre><code>cd eid_magic</code></pre>
 
 ### 3. Install Dependencies
 
